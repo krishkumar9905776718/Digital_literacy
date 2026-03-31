@@ -18,7 +18,7 @@ Subject - Application for Summer Internship Opportunity
 
 Dear Sir/Ma’am,
 
-I hope you are doing well. My name is Keshav Soni and I am currently pursuing BTech in Artificial Intelligence and Machine Learning. I am writing this email to express my interest in the summer internship opportunity organised by you company.
+I hope you are doing well. My name is Krish kumar and I am currently pursuing BTech cse core. I am writing this email to express my interest in the summer internship opportunity organised by you company.
 
 I am very interested in learning and gaining practical experience in the field of AI and technology.I am a beginner and wants to learn and improve my skills in the field of Artificial Intelligence and Machine Learning. I am also working on building my projects on a technical phasing website with the help of ai and figma tools .
 
@@ -28,13 +28,4 @@ Thank you for your time and consideration.
 
 Yours sincerely, Krish Kumar BTech CSE core
 
-PART B - (Social media do's and don'ts)
-Do’s:
-Use respectful language online
-Think before posting anything
-Keep your profile professional
-Verify information before sharing
-Don’ts:
-Don’t share personal/private information
-Don’t post offensive or abusive content
-Don’t spread fake news
+
